@@ -127,11 +127,11 @@ Fluid injection was targeted at a lava flow sequence located 400–800m below th
 
 
 ```{r, fig.fullwidth=TRUE,  include=TRUE, fig.align="center", out.width="0.8\\linewidth",  fig.cap=c("Map of the Carbfix site from @OELKERS2018"), echo=FALSE}
-knitr::include_graphics("Figs/Carbfix_map.jpg")
+knitr::include_graphics("Carbfix_map.jpg")
 ```
 
 ```{r, fig.fullwidth=TRUE,  include=TRUE, fig.align="center", out.width="0.8\\linewidth",  fig.cap=c("Section of the Carbfix site from @Matter:2016aa"), echo=FALSE}
-knitr::include_graphics("Figs/CarbFix_section.jpg")
+knitr::include_graphics("CarbFix_section.jpg")
 ```
 
 \carb\ was injected dissolved in seawater in two phases (phase I and phase II). The injection fluid was spiked with  nonreactive but volatile sulfur hexafluoride (\ce{SF6}) and trifluoromethyl sulfur pentafluoride (\ce{SF5CF3}) tracers to assess plume migration in the reservoir.  The \ce{SF6} was used during phase I and \ce{SF5CF3} during phase II.
