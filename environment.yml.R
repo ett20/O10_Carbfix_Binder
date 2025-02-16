@@ -1,0 +1,21 @@
+channels:
+  - conda-forge
+- nodefaults
+dependencies:
+  - r-base # whatever version
+- r-irkernel
+# and all your other leaf r- dependencies
+#- r-sf
+- r-tufte
+- r-ggplot2
+- r-readxl
+- r-plotly
+#- r-reshape2
+- r-gtools
+#- r- MASS
+#- r- ggridges
+- r-pracma
+- r-viridis
+- r-colorspace
+- r-dplyr
+- r-tidyr
