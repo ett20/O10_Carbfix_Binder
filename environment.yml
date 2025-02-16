@@ -1,8 +1,8 @@
 channels:
-  - conda-forge
+- conda-forge
 - nodefaults
 dependencies:
-  - r-base # whatever version
+- r-base # whatever version
 - r-irkernel
 # and all your other leaf r- dependencies
 #- r-sf
